@@ -54,10 +54,6 @@ plt.axis('off');
 <img width="327" height="465" alt="image" src="https://github.com/user-attachments/assets/ef55db7e-cc80-4527-bd7c-87168aa08501" /><br><br>
 
 
-<img width="327" height="465" alt="image" src="https://github.com/user-attachments/assets/a7c1c477-38ff-4818-88a6-7774cbdf604c" /><br><br>
-
-
-
 <img width="320" height="453" alt="image" src="https://github.com/user-attachments/assets/d775c98a-5391-4f74-9868-cbccce6028c5" /><br><br>
 
 
