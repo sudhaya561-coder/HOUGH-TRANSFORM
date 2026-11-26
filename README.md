@@ -50,27 +50,25 @@ plt.axis('off');
 
 ~~~
 # OUTPUT :
-```
-<img width="327" height="465" alt="image" src="https://github.com/user-attachments/assets/ef55db7e-cc80-4527-bd7c-87168aa08501" />
-```
+
+<img width="327" height="465" alt="image" src="https://github.com/user-attachments/assets/ef55db7e-cc80-4527-bd7c-87168aa08501" /><br><br>
 
 
-```
-<img width="327" height="465" alt="image" src="https://github.com/user-attachments/assets/a7c1c477-38ff-4818-88a6-7774cbdf604c" />
-```
+<img width="327" height="465" alt="image" src="https://github.com/user-attachments/assets/a7c1c477-38ff-4818-88a6-7774cbdf604c" /><br><br>
 
-```
-<img width="320" height="453" alt="image" src="https://github.com/user-attachments/assets/d775c98a-5391-4f74-9868-cbccce6028c5" />
-```
 
-```
-<img width="325" height="458" alt="image" src="https://github.com/user-attachments/assets/da356c9b-bd04-4232-b0dd-538fa83e56f3" />
-```
 
-```
-<img width="342" height="467" alt="image" src="https://github.com/user-attachments/assets/c71cdf17-8188-46f5-9b2d-90e2ae727c67" />
+<img width="320" height="453" alt="image" src="https://github.com/user-attachments/assets/d775c98a-5391-4f74-9868-cbccce6028c5" /><br><br>
 
-```
+
+
+<img width="325" height="458" alt="image" src="https://github.com/user-attachments/assets/da356c9b-bd04-4232-b0dd-538fa83e56f3" /><br><br>
+
+
+
+<img width="342" height="467" alt="image" src="https://github.com/user-attachments/assets/c71cdf17-8188-46f5-9b2d-90e2ae727c67" /><br><br>
+
+
 
 
 **Result:**
